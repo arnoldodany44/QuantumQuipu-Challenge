@@ -72,7 +72,7 @@ The quantum device is configured with four qubits, corresponding to the four inp
 
 StronglyEntanglingLayers in PennyLane is a quantum circuit template designed for creating highly entangled states through a sequence of parameterized single-qubit rotations and two-qubit entangling gates. This template is particularly useful in quantum machine learning for classification tasks due to its ability to generate complex quantum states and capture intricate patterns in data. The entanglement and parameterization inherent in these layers allow for rich feature mapping and adaptability, similar to weight adjustments in classical neural networks. Such characteristics make StronglyEntanglingLayers effective in distinguishing between different classes, especially where classical linear methods are insufficient, enhancing the capability of quantum-classical hybrid models.
 
-![App Screenshot](https://arnoldodany.com/QCImages/Peny2.png)
+![App Screenshot](https://arnoldodany.com/QCImages/Peny22.png)
 
 - Quantum Circuit Definition:
 
